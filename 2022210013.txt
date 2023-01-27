@@ -1,0 +1,13 @@
+mkdir 2022210013
+cd 2022210013
+pwd
+echo "hello,this is our first lab"
+touch names.txt
+nano names.txt
+cat names.txt
+touch labb.txt
+nano labb.txt
+cp names.txt labb.txt
+rm labb.txt
+tail -3 names.txt
+wc -l names.txt
